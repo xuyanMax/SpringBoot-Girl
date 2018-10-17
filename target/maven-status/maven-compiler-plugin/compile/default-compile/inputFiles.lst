@@ -1,0 +1,13 @@
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/aspect/HttpAspect.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/controller/GirlController.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/GirlApplication.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/exception/GirlException.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/repository/GirlRepository.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/handle/ExceptionHandle.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/enums/ResultEnum.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/domain/Girl.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/domain/Result.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/properties/GirlProperties.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/utils/ResultUtil.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/service/GirlService.java
+/Users/apple/Documents/workspace/girl/src/main/java/com/imooc/controller/HelloController.java

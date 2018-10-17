@@ -1,0 +1,13 @@
+com/imooc/service/GirlService.class
+com/imooc/aspect/HttpAspect.class
+com/imooc/GirlApplication.class
+com/imooc/enums/ResultEnum.class
+com/imooc/properties/GirlProperties.class
+com/imooc/repository/GirlRepository.class
+com/imooc/domain/Girl.class
+com/imooc/utils/ResultUtil.class
+com/imooc/exception/GirlException.class
+com/imooc/handle/ExceptionHandle.class
+com/imooc/domain/Result.class
+com/imooc/controller/HelloController.class
+com/imooc/controller/GirlController.class
